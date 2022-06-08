@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\bin\Debug\netcoreapp2.1\TrackingApp.deps.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\bin\Debug\netcoreapp2.1\TrackingApp.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\bin\Debug\netcoreapp2.1\TrackingApp.runtimeconfig.dev.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\bin\Debug\netcoreapp2.1\TrackingApp.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\bin\Debug\netcoreapp2.1\TrackingApp.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\TrackingApp\TrackingApp\obj\Debug\netcoreapp2.1\TrackingApp.pdb
